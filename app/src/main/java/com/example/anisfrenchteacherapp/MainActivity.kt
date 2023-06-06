@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val yellowButton : Button = findViewById(R.id.yellow_btn)
-        yellowButton.setBackgroundColor(R.drawable.yellow_background)
+
     }
 }

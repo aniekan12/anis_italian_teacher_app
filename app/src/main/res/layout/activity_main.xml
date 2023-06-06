@@ -15,6 +15,7 @@
         android:layout_marginBottom="37dp"
         android:fontFamily="@font/gilroy_extrabold"
         android:text="tu parle francais?!"
+        android:textColor="@color/black"
         android:textSize="30sp"
         app:layout_constraintBottom_toTopOf="@+id/red_btn"
         app:layout_constraintEnd_toEndOf="parent"
